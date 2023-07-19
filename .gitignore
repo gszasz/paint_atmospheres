@@ -1,6 +1,8 @@
 data/*
 !data/Generic_Bessell.V.dat
 !data/filters/.keep
+build/
+*.egg-info/
 *.pyc
 *__pycache__
 *.DS_Store
